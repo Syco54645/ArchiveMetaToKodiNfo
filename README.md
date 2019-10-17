@@ -18,21 +18,14 @@ The path should contain subdirectories witht he media and metadata in them. In t
 
 
 This should clean up all of the extra files as well
-
+```
 find . -name \*.jpg -type f -delete
-
 find . -name \*_reviews.xml -type f -delete
-
 find . -name \*_files.xml -type f -delete
-
 find . -name \*.mp4 -type f -delete
-
 find . -name \*.ogv -type f -delete
-
 find . -name \*.gif -type f -delete
-
 find . -name \*.idx -type f -delete
-
 find . -name \*.torrent -type f -delete
-
 find . -name \*.thumbs -type d -delete
+```
