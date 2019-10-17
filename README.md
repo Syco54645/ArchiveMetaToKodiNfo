@@ -1,5 +1,5 @@
 # ArchiveMetaToKodiNfo
-Quick and dirty script to convert archive.org metadata to Kodi nfo format
+Quick and dirty script to convert archive.org metadata to Kodi nfo format. It has been nearly 10 years since I have done perl so most of this was copy paste from SO.
 
 usage ./arcToKodi.pl <path>
 
